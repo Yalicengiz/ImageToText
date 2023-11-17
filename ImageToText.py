@@ -11,6 +11,8 @@ from tkinter import messagebox
 __author__ = "Yalicengiz"
 __date__ = "2023-07-14"
 
+# Updated for DevOps training...
+
 # Extend ttk.Combobox to open dropdown when clicked
 class CustomCombobox(ttk.Combobox):
     def __init__(self, *args, **kwargs):
